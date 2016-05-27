@@ -1,0 +1,30 @@
+{
+  "name": "raise-the-bar",
+  "description": "Free Code Camp challenge to build a bar/nightspot search with third-party API and user ability to create guest lists",
+  "main": "server.js",
+  "authors": [
+    "Victoria Mielke"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "^1.5.6",
+    "angular-cookies": "^1.5.5",
+    "angular-resource": "^1.5.5",
+    "angular-route": "^1.5.5",
+    "angular-spinners": "^3.1.2",
+    "angular-strap": "^2.3.8",
+    "angularjs-viewhead": "^0.0.1",
+    "bootstrap": "^3.3.6",
+    "moment": "momentjs#^2.13.0",
+    "angular-messages": "^1.5.5"
+  }
+}
