@@ -1,6 +1,6 @@
 # Raise the Bar
 
-Raise the Bar is the second of Free Code Camp's full-stack challenges. This is a nightlife coordination app that enables users to plan their nighttime outings.
+Raise the Bar is the second of Free Code Camp's full-stack challenges. This is a nightlife coordination app that enables users to plan their nighttime outings. They can search for local bars served via the Yelp API. They can login and add themselves to individual bars to let friends know they are going out. When logged in, their searches also are saved.
 
 These are the "user stories" this app must fulfill:
 
